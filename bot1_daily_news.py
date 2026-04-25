@@ -32,6 +32,8 @@ STOCKS = [
     {"name": "Borosil Renewables",     "bse": "538979", "nse": "BORORENEW",   "yf": "BORORENEW.NS"},
     {"name": "Yes Bank",               "bse": "532648", "nse": "YESBANK",     "yf": "YESBANK.NS"},
     {"name": "ITC",                    "bse": "500875", "nse": "ITC",         "yf": "ITC.NS"},
+    {"name": "Tata Realty (TARIL)",    "bse": "543091", "nse": "TARIL",  "yf": "TARIL.NS"},
+    {"name": "Infosys",                "bse": "500209", "nse": "INFY",   "yf": "INFY.NS"}
 ]
 
 # ============================================================
